@@ -1,0 +1,6 @@
+[submodule "Segmentation-and-Multi-Detection-YOLO-for-Meta-Quest-3"]
+	path = Segmentation-and-Multi-Detection-YOLO-for-Meta-Quest-3
+	url = https://github.com/NguyenHoangNhat-git/Segmentation-and-Multi-Detection-YOLO-for-Meta-Quest-3.git
+[submodule "Meta-Quest-3-Segmenation-pipeline-with-Unity"]
+	path = Meta-Quest-3-Segmenation-pipeline-with-Unity
+	url = https://github.com/NguyenHoangNhat-git/Meta-Quest-3-Segmenation-pipeline-with-Unity.git
