@@ -8,9 +8,11 @@ This repo contains 2 submodules
 
 ## Demo
 
-<video controls src="demo_sponge.mp4" title="Demo Sponge"></video>
+Click on an image to watch the demo video:
 
-<video controls src="demo_washLiquid.mp4" title="Demo WashLiquid"></video>
+| Sponge | WashLiquid |
+|:-------------:|:--------------------:|
+| [![Demo Sponge](Demo/demo_sponge_thumbnail.png)](Demo/demo_sponge.mp4) | [![Demo WashLiquid](Demo/demo_washLiquid_thumbnail.png)](Demo/demo_washLiquid.mp4) |
 
 ## Installation
 
