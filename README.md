@@ -6,7 +6,13 @@ This repo contains 2 submodules
 - : some python scripts for preparing, training and testing the DL models used for the project
 - : the Unity app that uses the given DL models to execute my pipeline.
 
-# Installation
+## Demo
+
+<video controls src="demo_sponge.mp4" title="Demo Sponge"></video>
+
+<video controls src="demo_washLiquid.mp4" title="Demo WashLiquid"></video>
+
+## Installation
 
 ```
 git lfs install
